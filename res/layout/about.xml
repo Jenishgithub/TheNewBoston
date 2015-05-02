@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hey wats up this is jenish shakya....this is android programming...
+        tutorial no. 53. long time no see haina.......poisoned nerves and a bloody antidote, 
+        violence is not and abbreviation, its a rule, dieing beyond the pale...
+        " />
+
+</LinearLayout>
